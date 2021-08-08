@@ -2,4 +2,4 @@
 - 🔭 I’m currently working on NeC  
 - 🌱 I’m currently learning Express  
 - 📫 How to reach me: Discord Марк#1319  
-![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=angrymouse&theme=midnight-purple)
+![My github streak](https://github-readme-streak-stats.herokuapp.com/?user=TrueMajner&theme=midnight-purple)
