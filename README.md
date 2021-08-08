@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on NeC  
 - 🌱 I’m currently learning Express  
 - 📫 How to reach me: Discord Марк#1319  
-
+![](https://komarev.com/ghpvc/?username=truemajner)
