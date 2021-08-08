@@ -10,6 +10,4 @@
 - ⏭ I am going to learn C++ and python
 - 📈 Currently improving my knowledge about github
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
 ![](https://komarev.com/ghpvc/?username=truemajner)
