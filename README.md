@@ -9,5 +9,3 @@
 - 🛠️ Trying to fix bugs in Unity  
 - ⏭ I am going to learn C++ and python
 - 📈 Currently improving my knowledge about github
-
-![](https://komarev.com/ghpvc/?username=truemajner)
