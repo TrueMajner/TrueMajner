@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **YourKava**
 
-- 📫 How to reach me **Telegram: @The_Great_Libertarian**
+- 📫 How to reach me **Telegram: @mark_ustovitskiy**
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=TrueMajner&show_icons=true&theme=radical&count_private=true)  
 
